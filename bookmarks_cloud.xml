@@ -1,0 +1,3149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2019-12-20 19:45:50">
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>cog</icon>
+<image/>
+<module display_value="Tables">7e7ca89ac0a8000901594ba32f405461</module>
+<open_in_form>false</open_in_form>
+<order>2</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-01-19 12:20:56</sys_created_on>
+<sys_id>7f6fdb74db7f030021542dba0b9619f7</sys_id>
+<sys_mod_count>15</sys_mod_count>
+<sys_updated_by>Todd.Goodhew</sys_updated_by>
+<sys_updated_on>2019-07-16 12:05:23</sys_updated_on>
+<title>System Definition - Tables</title>
+<uncancelable>false</uncancelable>
+<url>sys_db_object_list.do?sysparm_query=sys_update_nameISNOTEMPTY^EQ&amp;sysparm_userpref_module=7e7ca89ac0a8000901594ba32f405461&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>cog</icon>
+<image/>
+<module display_value="Tables &amp; Columns">756a0282c0a801650001ff83eb438d05</module>
+<open_in_form>false</open_in_form>
+<order>3</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-01-19 12:20:59</sys_created_on>
+<sys_id>507f1338db3f030021542dba0b961910</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>tgoodhew</sys_updated_by>
+<sys_updated_on>2018-02-16 15:19:02</sys_updated_on>
+<title>System Definition - Tables &amp; Columns</title>
+<uncancelable>false</uncancelable>
+<url>table_columns.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>aquamarine</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>article-document</icon>
+<image/>
+<module display_value="Event Log">57c79f0c0a00008201479a6b3ef4da72</module>
+<open_in_form>false</open_in_form>
+<order>4</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-01-25 12:32:47</sys_created_on>
+<sys_id>fbabd6fadbb3470021542dba0b961953</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>Todd.Goodhew</sys_updated_by>
+<sys_updated_on>2019-07-16 12:05:23</sys_updated_on>
+<title>System Policy - Event Log</title>
+<uncancelable>false</uncancelable>
+<url>sysevent_list.do?sysparm_query=sys_created_onONToday@javascript:gs.daysAgoStart(0)@javascript:gs.daysAgoEnd(0)^EQ&amp;sysparm_userpref_module=57c79f0c0a00008201479a6b3ef4da72&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>aquamarine</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>article-document</icon>
+<image/>
+<module display_value="Application Logs">97ee0f02c30321007de15ad8cbba8f60</module>
+<open_in_form>false</open_in_form>
+<order>5</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-02-13 14:32:37</sys_created_on>
+<sys_id>605d6849db14570021542dba0b9619b9</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>Todd.Goodhew</sys_updated_by>
+<sys_updated_on>2019-07-16 12:05:23</sys_updated_on>
+<title>System Logs - Application Logs</title>
+<uncancelable>false</uncancelable>
+<url>syslog_app_scope_list.do?sysparm_order_direction=desc&amp;sysparm_order=sys_created_on&amp;=&amp;sysparm_query=sys_created_onONToday@javascript:gs.daysAgoStart(0)@javascript:gs.daysAgoEnd(0)^EQ&amp;sysparm_userpref_module=97ee0f02c30321007de15ad8cbba8f60&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>aquamarine</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>article-document</icon>
+<image/>
+<module display_value="Script Log Statements">f774f77b0a0a3c74006c827b1705662e</module>
+<open_in_form>false</open_in_form>
+<order>6</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-02-13 14:32:40</sys_created_on>
+<sys_id>1d5da409db14570021542dba0b96198a</sys_id>
+<sys_mod_count>17</sys_mod_count>
+<sys_updated_by>Todd.Goodhew</sys_updated_by>
+<sys_updated_on>2019-07-16 12:05:23</sys_updated_on>
+<title>System Logs - Script Log Statements</title>
+<uncancelable>false</uncancelable>
+<url>syslog_list.do?sysparm_order_direction=desc&amp;sysparm_order=sys_created_on&amp;sysparm_query_category=log&amp;=&amp;sysparm_query=sys_created_onONToday@javascript:gs.daysAgoStart(0)@javascript:gs.daysAgoEnd(0)^source=*** Script^EQ&amp;sysparm_userpref_module=f774f77b0a0a3c74006c827b1705662e&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value="Errors">141083050a0a0b1401c381f5361eaf9c</module>
+<open_in_form>false</open_in_form>
+<order>7</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-03 16:17:33</sys_created_on>
+<sys_id>1930b92313d6f700c1fb33e2e144b060</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>System Logs - Errors</title>
+<uncancelable>false</uncancelable>
+<url>syslog_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=141083050a0a0b1401c381f5361eaf9c&amp;sysparm_query=sys_created_onONToday@javascript:gs.daysAgoStart(0)@javascript:gs.daysAgoEnd(0)^level=2^EQ&amp;=&amp;sysparm_order=sys_created_on&amp;sysparm_order_direction=desc</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>aquamarine</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>article-document</icon>
+<image/>
+<module display_value="Emails">8d620b63c611227b008368697b0b8d7b</module>
+<open_in_form>false</open_in_form>
+<order>8</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-01-18 12:48:59</sys_created_on>
+<sys_id>704c1eacdbf3030021542dba0b961916</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>System Logs - Emails</title>
+<uncancelable>false</uncancelable>
+<url>sys_email_list.do?sysparm_query=sys_created_onONToday@javascript:gs.daysAgoStart(0)@javascript:gs.daysAgoEnd(0)^EQ&amp;sysparm_userpref_module=8d620b63c611227b008368697b0b8d7b&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>view</icon>
+<image/>
+<module display_value="Workflow Editor">e9fac03dc0a80166008ee5040e8b5e3a</module>
+<open_in_form>false</open_in_form>
+<order>9</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-01-18 20:07:32</sys_created_on>
+<sys_id>30a008bcdbb7030021542dba0b961949</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Workflow - Workflow Editor</title>
+<uncancelable>false</uncancelable>
+<url>workflow_ide.do?sysparm_nostack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name>workflow</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>mail</icon>
+<image/>
+<module display_value="Notifications">57c7122e0a00008200e0f94513f2f7ee</module>
+<open_in_form>false</open_in_form>
+<order>10</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-01-18 12:41:41</sys_created_on>
+<sys_id>8e9ad6a8dbf3030021542dba0b96193a</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>System Notification - Notifications</title>
+<uncancelable>false</uncancelable>
+<url>sysevent_email_action_list.do?sysparm_query=active=true^EQ&amp;sysparm_userpref_module=57c7122e0a00008200e0f94513f2f7ee&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>red</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>sort-ascending</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>11</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-05-10 12:32:20</sys_created_on>
+<sys_id>018a8be4db025fc421542dba0b961915</sys_id>
+<sys_mod_count>10</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>System Updates - My In Progress</title>
+<uncancelable>false</uncancelable>
+<url>sys_update_set_list.do?sysparm_clear_stack=true&amp;sysparm_query=sys_created_byLIKEgoodhew%5EORsys_created_byLIKEe804771%5EORname%3Ddefault%201%5Estate%3Din%20progress&amp;sysparm_fixed_query=</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>cart-full</icon>
+<image/>
+<module display_value="Maintain Items">d420ccf0c611227a006d23ea39bc4207</module>
+<open_in_form>false</open_in_form>
+<order>12</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-02-01 13:28:14</sys_created_on>
+<sys_id>d88b6e0ddb485b0023df42fa0b9619d6</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Service Catalog - Maintain Items</title>
+<uncancelable>false</uncancelable>
+<url>sc_cat_item_list.do?sysparm_query=type!=bundle^sys_class_name!=sc_cat_item_guide^type!=package^sys_class_name!=sc_cat_item_content^EQ&amp;sysparm_userpref_module=d420ccf0c611227a006d23ea39bc4207&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>cart-full</icon>
+<image/>
+<module display_value="Items">8bb3e48cc0a8006401c49094e7db12cf</module>
+<open_in_form>false</open_in_form>
+<order>13</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>tgoodhew</sys_created_by>
+<sys_created_on>2018-02-01 13:28:08</sys_created_on>
+<sys_id>f27b664ddb485b0023df42fa0b961920</sys_id>
+<sys_mod_count>18</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Service Catalog - Items</title>
+<uncancelable>false</uncancelable>
+<url>sc_req_item_list.do?sysparm_query=active=true^EQ&amp;sysparm_userpref_module=8bb3e48cc0a8006401c49094e7db12cf&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>orange</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>tree-right</icon>
+<image/>
+<module display_value="REST Message">f196a40107131000dada43c0d1021e40</module>
+<open_in_form>false</open_in_form>
+<order>14</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 20:19:39</sys_created_on>
+<sys_id>b6e11f1513017340c1fb33e2e144b02a</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>System Web Services - REST Message</title>
+<uncancelable>false</uncancelable>
+<url>sys_rest_message_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=f196a40107131000dada43c0d1021e40</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Dashboard">cc7aa9d5ff023100995cffffffffffb6</module>
+<open_in_form>false</open_in_form>
+<order>16</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>e0d956d913093340c1fb33e2e144b0eb</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Dashboard</title>
+<uncancelable>false</uncancelable>
+<url>$sw_dashboards.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Monitored Services">06c323fd7f23220002d31ccebefa9149</module>
+<open_in_form>false</open_in_form>
+<order>17</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>e8d956d913093340c1fb33e2e144b0eb</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Monitored Services</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_service_auto_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=06c323fd7f23220002d31ccebefa9149&amp;sysparm_view=service_status&amp;sysparm_query=operational_status=1^EQ</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Overview">e4be4aaa934231000fb3b9ab357ffbd6</module>
+<open_in_form>false</open_in_form>
+<order>18</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>acd956d913093340c1fb33e2e144b0eb</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Overview</title>
+<uncancelable>false</uncancelable>
+<url>$pa_dashboard.do?sysparm_dashboard=50262e2f67000300684e82ed2685ef9b&amp;sysparm_tab=2e262e2f67000300684e82ed2685ef61&amp;sysparm_cancelable=true&amp;sysparm_editable=false&amp;sysparm_active_panel=false&amp;sysparm_ignore_default_filter=false</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Alert Console">302f0eaa934231000fb3b9ab357ffb70</module>
+<open_in_form>false</open_in_form>
+<order>19</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>a0d956d913093340c1fb33e2e144b0ec</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Alert Console</title>
+<uncancelable>false</uncancelable>
+<url>$sa_alerts_console_view.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="All Alerts">ac022cdf934231000fb3b9ab357ffb47</module>
+<open_in_form>false</open_in_form>
+<order>20</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>68d956d913093340c1fb33e2e144b0ec</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>All Alerts</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=ac022cdf934231000fb3b9ab357ffb47&amp;sysparm_query=correlation_group!=2^EQ</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="All Events">affecaaa934231000fb3b9ab357ffb48</module>
+<open_in_form>false</open_in_form>
+<order>21</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>2cd956d913093340c1fb33e2e144b0ec</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>All Events</title>
+<uncancelable>false</uncancelable>
+<url>em_event_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=affecaaa934231000fb3b9ab357ffb48</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Remediation Tasks">e1287f4193000200eb19f179077ffb9b</module>
+<open_in_form>false</open_in_form>
+<order>22</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>ecd956d913093340c1fb33e2e144b0ec</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Remediation Tasks</title>
+<uncancelable>false</uncancelable>
+<url>em_remediation_task_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=e1287f4193000200eb19f179077ffb9b</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Services">97fd585f9f201200378f9b0cc32e70e0</module>
+<open_in_form>false</open_in_form>
+<order>23</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>64d956d913093340c1fb33e2e144b0ee</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Services</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Alert Groups">8e026fd3ff000200574dffffffffff53</module>
+<open_in_form>false</open_in_form>
+<order>24</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:32</sys_created_on>
+<sys_id>28d956d913093340c1fb33e2e144b0ee</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Alert Groups</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_alert_group_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=8e026fd3ff000200574dffffffffff53</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Manual Services">85facc72933002000fb3b9ab357ffb2b</module>
+<open_in_form>false</open_in_form>
+<order>25</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a0d956d913093340c1fb33e2e144b0ef</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Manual Services</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_service_manual_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=85facc72933002000fb3b9ab357ffb2b</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Application Services">bc57f235671013007236c44d2685efe1</module>
+<open_in_form>false</open_in_form>
+<order>26</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>2cd956d913093340c1fb33e2e144b0ef</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Application Services</title>
+<uncancelable>false</uncancelable>
+<url>sa_discovered_services_list?sysparm_query=operational_status=1&amp;sysparm_view=event_management_view</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Service Groups">797ccbcf7f41020016181ccebefa9197</module>
+<open_in_form>false</open_in_form>
+<order>27</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>ecd956d913093340c1fb33e2e144b0ef</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Service Groups</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_service_group_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=797ccbcf7f41020016181ccebefa9197</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Technical Services">4d4593f7c3901200378f587981d3aec7</module>
+<open_in_form>false</open_in_form>
+<order>28</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>68d956d913093340c1fb33e2e144b0f0</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Technical Services</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_query_based_service_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=4d4593f7c3901200378f587981d3aec7&amp;sysparm_view=event_management_TBS</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Service Group Responsibilities">ef1d03037f81020016181ccebefa91c1</module>
+<open_in_form>false</open_in_form>
+<order>29</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>60d956d913093340c1fb33e2e144b0f1</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Service Group Responsibilities</title>
+<uncancelable>false</uncancelable>
+<url>sa_svc_group_responsibilities_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=ef1d03037f81020016181ccebefa91c1</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Rules">10f26013938231000fb3b9ab357ffbc5</module>
+<open_in_form>false</open_in_form>
+<order>30</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>64d956d913093340c1fb33e2e144b0f2</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Rules</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Event Rules">15929644c3b002001c13587981d3ae84</module>
+<open_in_form>false</open_in_form>
+<order>31</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>28d956d913093340c1fb33e2e144b0f2</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Event Rules</title>
+<uncancelable>false</uncancelable>
+<url>$sa_event_rules.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Event Field Mapping">219fceaa934231000fb3b9ab357ffb1a</module>
+<open_in_form>false</open_in_form>
+<order>32</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>2cd956d913093340c1fb33e2e144b0f2</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Event Field Mapping</title>
+<uncancelable>false</uncancelable>
+<url>em_mapping_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=219fceaa934231000fb3b9ab357ffb1a</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Alert Correlation Rules">68e45690c3101200378f587981d3aed2</module>
+<open_in_form>false</open_in_form>
+<order>33</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a4d956d913093340c1fb33e2e144b0f3</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Alert Correlation Rules</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_correlation_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=68e45690c3101200378f587981d3aed2</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Alert Management">35d9eceb93e20300404c74aff67ffbc8</module>
+<open_in_form>false</open_in_form>
+<order>34</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>20d956d913093340c1fb33e2e144b0f4</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Alert Management</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_management_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=35d9eceb93e20300404c74aff67ffbc8</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Alert Action Rules">1fff82ea934231000fb3b9ab357ffbf5</module>
+<open_in_form>false</open_in_form>
+<order>35</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a8d956d913093340c1fb33e2e144b0f4</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Alert Action Rules</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=1fff82ea934231000fb3b9ab357ffbf5</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Maintenance Rules">790c40247f031200b73c72a3cefa91da</module>
+<open_in_form>false</open_in_form>
+<order>36</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>24d956d913093340c1fb33e2e144b0f5</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Maintenance Rules</title>
+<uncancelable>false</uncancelable>
+<url>em_maintenance_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=790c40247f031200b73c72a3cefa91da</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="CI Remediations">8d05a37693333100fe2b31f6357ffba4</module>
+<open_in_form>false</open_in_form>
+<order>37</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>acd956d913093340c1fb33e2e144b0f5</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>CI Remediations</title>
+<uncancelable>false</uncancelable>
+<url>em_ci_remediation_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=8d05a37693333100fe2b31f6357ffba4</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Event Connectors (Pull)">89a3a413938231000fb3b9ab357ffbe1</module>
+<open_in_form>false</open_in_form>
+<order>38</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>ecd95ad913093340c1fb33e2e144b006</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Event Connectors (Pull)</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Connector Definitions">3c2f66ae934231000fb3b9ab357ffbc4</module>
+<open_in_form>false</open_in_form>
+<order>39</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a0d95ad913093340c1fb33e2e144b007</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Connector Definitions</title>
+<uncancelable>false</uncancelable>
+<url>em_connector_definition_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=3c2f66ae934231000fb3b9ab357ffbc4</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Connector Instances">8890faae934231000fb3b9ab357ffb57</module>
+<open_in_form>false</open_in_form>
+<order>40</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>64d95ad913093340c1fb33e2e144b007</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Connector Instances</title>
+<uncancelable>false</uncancelable>
+<url>em_connector_instance_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=8890faae934231000fb3b9ab357ffb57</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Event Listener (Push)">8a38f87093e83200c52d31f6357ffb54</module>
+<open_in_form>false</open_in_form>
+<order>41</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>2cd95ad913093340c1fb33e2e144b007</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Event Listener (Push)</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Listener Transform Scripts">64b0817493e83200c52d31f6357ffbfa</module>
+<open_in_form>false</open_in_form>
+<order>42</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>ecd95ad913093340c1fb33e2e144b007</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Listener Transform Scripts</title>
+<uncancelable>false</uncancelable>
+<url>em_connector_push_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=64b0817493e83200c52d31f6357ffbfa</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="MID WebService Event Listener">97366d4e93722200833b76df067ffb8d</module>
+<open_in_form>false</open_in_form>
+<order>43</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>68d95ad913093340c1fb33e2e144b008</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>MID WebService Event Listener</title>
+<uncancelable>false</uncancelable>
+<url>ecc_agent_ext_context_event_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=97366d4e93722200833b76df067ffb8d</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="MID SNMP Traps Listener">a430bf33933a2200833b76df067ffbf2</module>
+<open_in_form>false</open_in_form>
+<order>44</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>2cd95ad913093340c1fb33e2e144b008</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>MID SNMP Traps Listener</title>
+<uncancelable>false</uncancelable>
+<url>ecc_agent_ext_context_trap_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=a430bf33933a2200833b76df067ffbf2</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Operational Metrics">96bfd0e17f102200b73c72a3cefa919c</module>
+<open_in_form>false</open_in_form>
+<order>45</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>64d95ad913093340c1fb33e2e144b009</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Operational Metrics</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Metric Classes">bffe04a05bf103009a9f2a2c11f91a80</module>
+<open_in_form>false</open_in_form>
+<order>46</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>28d95ad913093340c1fb33e2e144b009</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric Classes</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_class_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=bffe04a05bf103009a9f2a2c11f91a80</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Alert Aggregation and RCA">14c0963b7f213200ce36b0d8adfa9118</module>
+<open_in_form>false</open_in_form>
+<order>47</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>6cd95ad913093340c1fb33e2e144b009</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Alert Aggregation and RCA</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Edit Feedback">684fe3a47f432200feedb0d8adfa9184</module>
+<open_in_form>false</open_in_form>
+<order>48</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>20d95ad913093340c1fb33e2e144b00a</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Edit Feedback</title>
+<uncancelable>false</uncancelable>
+<url>em_agg_group_alert_list.do?sysparm_clear_stack=true&amp;sysparm_query=is_sa_source%3Dtrue%5Euser_edits!%3D0%5EGROUPBYgroup_id&amp;sysparm_view=user_edits</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Manage Pattern Identifier">26899177d7731200ee056dbd6e6103a5</module>
+<open_in_form>false</open_in_form>
+<order>49</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a8d95ad913093340c1fb33e2e144b00a</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Manage Pattern Identifier</title>
+<uncancelable>false</uncancelable>
+<url>sa_agg_pattern_attribute_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="RCA Configs">3ad92c527f030200257d3f35bdfa916a</module>
+<open_in_form>false</open_in_form>
+<order>50</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>24d95ad913093340c1fb33e2e144b00b</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>RCA Configs</title>
+<uncancelable>false</uncancelable>
+<url>sa_rca_smc_config_base_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Learned Patterns">8f444863d7101200ee056dbd6e610356</module>
+<open_in_form>false</open_in_form>
+<order>51</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>acd95ad913093340c1fb33e2e144b00b</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Learned Patterns</title>
+<uncancelable>false</uncancelable>
+<url>$sa_agg_learner_report.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>52</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a0d95ad913093340c1fb33e2e144b00c</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Value Report</title>
+<uncancelable>false</uncancelable>
+<url>$sa_value_report.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="RCA Configs Comparison">a113f7b07f230200257d3f35bdfa9189</module>
+<open_in_form>false</open_in_form>
+<order>53</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a4d95ad913093340c1fb33e2e144b00c</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>RCA Configs Comparison</title>
+<uncancelable>false</uncancelable>
+<url>$sa_smc_report.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Properties">400e7ea6d73102000da3e2090e610331</module>
+<open_in_form>false</open_in_form>
+<order>54</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>a8d95ad913093340c1fb33e2e144b00c</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Properties</title>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=Service%20Analytics%20Properties &amp;sysparm_category=Service%20Analytics</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Settings">985f4eaa934231000fb3b9ab357ffbbc</module>
+<open_in_form>false</open_in_form>
+<order>55</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>e8d95ad913093340c1fb33e2e144b00d</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Settings</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="License Usage">ca4245437f11020016181ccebefa9180</module>
+<open_in_form>false</open_in_form>
+<order>56</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>acd95ad913093340c1fb33e2e144b00d</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>License Usage</title>
+<uncancelable>false</uncancelable>
+<url>em_unique_nodes_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=ca4245437f11020016181ccebefa9180</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Process to CI Type Mapping">4feb1c0193100200fe2b31f6357ffb00</module>
+<open_in_form>false</open_in_form>
+<order>57</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>38d95ad913093340c1fb33e2e144b00e</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Process to CI Type Mapping</title>
+<uncancelable>false</uncancelable>
+<url>em_binding_process_map_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=4feb1c0193100200fe2b31f6357ffb00</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Infrastructure Relations">8192ae70931331000fb3b9ab357ffb0f</module>
+<open_in_form>false</open_in_form>
+<order>58</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>f8d95ad913093340c1fb33e2e144b00e</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Infrastructure Relations</title>
+<uncancelable>false</uncancelable>
+<url>em_impact_infra_rel_def_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=8192ae70931331000fb3b9ab357ffb0f</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Self-Health configuration">bba603239f48030091be9b0cc32e70d7</module>
+<open_in_form>false</open_in_form>
+<order>59</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>74d95ad913093340c1fb33e2e144b00f</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Self-Health configuration</title>
+<uncancelable>false</uncancelable>
+<url>em_monitor_conf_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=bba603239f48030091be9b0cc32e70d7</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="SLA Configuration">8b754c0593201200e0e931f6357ffbc0</module>
+<open_in_form>false</open_in_form>
+<order>60</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>fcd95ad913093340c1fb33e2e144b00f</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>SLA Configuration</title>
+<uncancelable>false</uncancelable>
+<url>em_sla_configuration_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=8b754c0593201200e0e931f6357ffbc0</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Dashboard Views">2df0e3477f131200f128134f8dfa915d</module>
+<open_in_form>false</open_in_form>
+<order>61</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>78d95ad913093340c1fb33e2e144b010</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Dashboard Views</title>
+<uncancelable>false</uncancelable>
+<url>sa_dashboard_view_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=2df0e3477f131200f128134f8dfa915d</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Map Menu Actions">e3fc4bdbc3301200b5be1962c1d3ae4f</module>
+<open_in_form>false</open_in_form>
+<order>62</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>f0d95ad913093340c1fb33e2e144b011</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Map Menu Actions</title>
+<uncancelable>false</uncancelable>
+<url>sa_context_menu_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=e3fc4bdbc3301200b5be1962c1d3ae4f</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Task Templates">b1d3b6ee934231000fb3b9ab357ffb29</module>
+<open_in_form>false</open_in_form>
+<order>63</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>7cd95ad913093340c1fb33e2e144b011</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Task Templates</title>
+<uncancelable>false</uncancelable>
+<url>em_incident_template_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=b1d3b6ee934231000fb3b9ab357ffb29</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Event Grouping Definitions">3b616e2593232200833b76df067ffb1f</module>
+<open_in_form>false</open_in_form>
+<order>64</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>3cd95ad913093340c1fb33e2e144b0fe</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Event Grouping Definitions</title>
+<uncancelable>false</uncancelable>
+<url>em_event_group_def_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=3b616e2593232200833b76df067ffb1f</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Advanced scripts">7fabfd1793e03200a346f179077ffbfc</module>
+<open_in_form>false</open_in_form>
+<order>65</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>b4d95ad913093340c1fb33e2e144b0ff</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Advanced scripts</title>
+<uncancelable>false</uncancelable>
+<url>sys_script_include_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=7fabfd1793e03200a346f179077ffbfc&amp;sysparm_view=EM_script_include&amp;sysparm_query=nameSTARTSWITHEvtMgmtCustom^EQ</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>view</icon>
+<image/>
+<module display_value="Properties">b324f6ee934231000fb3b9ab357ffbe8</module>
+<open_in_form>false</open_in_form>
+<order>66</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>30d99ad913093340c1fb33e2e144b000</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Properties</title>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=Event%20Management%20Properties&amp;sysparm_category=Event%20Management</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>cyan</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="28d956d913093340c1fb33e2e144b0ea">28d956d913093340c1fb33e2e144b0ea</group>
+<icon>list</icon>
+<image/>
+<module display_value="Contextual Colors and Icons">1c94237c93700300ac0c5999357ffbe0</module>
+<open_in_form>false</open_in_form>
+<order>67</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-04-25 16:14:33</sys_created_on>
+<sys_id>f0d99ad913093340c1fb33e2e144b000</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Contextual Colors and Icons</title>
+<uncancelable>false</uncancelable>
+<url>sa_contextual_colors_and_icons_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=1c94237c93700300ac0c5999357ffbe0</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Configure">f0cc3ae373c52300feeddca09ff6a7f4</module>
+<open_in_form>false</open_in_form>
+<order>69</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>0df303b613daf300c1fb33e2e144b088</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Configure</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Metric to CI">f9b0b4c0d7010300ee056dbd6e6103dd</module>
+<open_in_form>false</open_in_form>
+<order>70</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>c1f303b613daf300c1fb33e2e144b089</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric to CI</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_map_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=f9b0b4c0d7010300ee056dbd6e6103dd</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Metric Types">7f61b8c0d7010300ee056dbd6e61039d</module>
+<open_in_form>false</open_in_form>
+<order>71</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>85f303b613daf300c1fb33e2e144b089</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric Types</title>
+<uncancelable>false</uncancelable>
+<url>sa_source_metric_type_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=7f61b8c0d7010300ee056dbd6e61039d</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>view</icon>
+<image/>
+<module display_value="Bounds Settings">c4e202367323130037d18f73cbf6a7e8</module>
+<open_in_form>false</open_in_form>
+<order>72</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>49f303b613daf300c1fb33e2e144b089</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Bounds Settings</title>
+<uncancelable>false</uncancelable>
+<url>$oi_bound_settings.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Data Source Registration">98e1f8c0d7010300ee056dbd6e6103d6</module>
+<open_in_form>false</open_in_form>
+<order>73</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>4df303b613daf300c1fb33e2e144b089</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Data Source Registration</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_registration_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=98e1f8c0d7010300ee056dbd6e6103d6</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Anomaly Alert Promotion Rules">b3143c04d7010300ee056dbd6e610362</module>
+<open_in_form>false</open_in_form>
+<order>74</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>01f303b613daf300c1fb33e2e144b08a</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Anomaly Alert Promotion Rules</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_promotion_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=b3143c04d7010300ee056dbd6e610362</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Metric Config Rules">d416f444d7010300ee056dbd6e610384</module>
+<open_in_form>false</open_in_form>
+<order>75</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>c1f303b613daf300c1fb33e2e144b08a</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric Config Rules</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_config_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=d416f444d7010300ee056dbd6e610384</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="View Metric &amp; Anomalies">f84e3aab73c52300feeddca09ff6a799</module>
+<open_in_form>false</open_in_form>
+<order>76</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>09f303b613daf300c1fb33e2e144b08b</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>View Metric &amp; Anomalies</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>view</icon>
+<image/>
+<module display_value="Insights Explorer">8bed4ce55323030032dcddeeff7b121c</module>
+<open_in_form>false</open_in_form>
+<order>77</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:00</sys_created_on>
+<sys_id>c9f303b613daf300c1fb33e2e144b08b</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Insights Explorer</title>
+<uncancelable>false</uncancelable>
+<url>$insights_explorer.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>view</icon>
+<image/>
+<module display_value="Advanced Insights Explorer">1029d8a153a3030032dcddeeff7b12c4</module>
+<open_in_form>false</open_in_form>
+<order>78</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>cdf303b613daf300c1fb33e2e144b08b</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Advanced Insights Explorer</title>
+<uncancelable>false</uncancelable>
+<url>$advanced_insights_explorer.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>view</icon>
+<image/>
+<module display_value="Anomaly Map">dfa37804d7010300ee056dbd6e610319</module>
+<open_in_form>false</open_in_form>
+<order>79</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>c1f303b613daf300c1fb33e2e144b08c</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Anomaly Map</title>
+<uncancelable>false</uncancelable>
+<url>$anomaly_map.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Anomaly Alerts">24c2b004d7010300ee056dbd6e610380</module>
+<open_in_form>false</open_in_form>
+<order>80</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>c5f303b613daf300c1fb33e2e144b08c</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Anomaly Alerts</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_anomaly_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=24c2b004d7010300ee056dbd6e610380</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Anomaly Model Testing">270430cb5b7303009a9f2a2c11f91a51</module>
+<open_in_form>false</open_in_form>
+<order>81</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>89f303b613daf300c1fb33e2e144b08c</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Anomaly Model Testing</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_anomaly_test_rule_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=270430cb5b7303009a9f2a2c11f91a51</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="Settings">c3bf766f73c52300feeddca09ff6a7c9</module>
+<open_in_form>false</open_in_form>
+<order>82</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>c5f303b613daf300c1fb33e2e144b08d</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Settings</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Anomaly Alert Promotion CIs Blacklist">53957444d7010300ee056dbd6e61032c</module>
+<open_in_form>false</open_in_form>
+<order>83</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>89f303b613daf300c1fb33e2e144b08d</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Anomaly Alert Promotion CIs Blacklist</title>
+<uncancelable>false</uncancelable>
+<url>em_alert_promotion_blacklist_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=53957444d7010300ee056dbd6e61032c</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Anomaly Score to Severity Mapping">7338f048d7010300ee056dbd6e6103c6</module>
+<open_in_form>false</open_in_form>
+<order>84</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>4df303b613daf300c1fb33e2e144b08d</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Anomaly Score to Severity Mapping</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_anomaly_score_to_event_severity_map_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=7338f048d7010300ee056dbd6e6103c6</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Metric Expression Functions">9636556c73f51300ee05aa114df6a738</module>
+<open_in_form>false</open_in_form>
+<order>85</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>01f303b613daf300c1fb33e2e144b08e</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric Expression Functions</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_expr_function_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=9636556c73f51300ee05aa114df6a738</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>list</icon>
+<image/>
+<module display_value="Metric Expression Function Arguments">83c6596c73f51300ee05aa114df6a776</module>
+<open_in_form>false</open_in_form>
+<order>86</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>c1f303b613daf300c1fb33e2e144b08e</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric Expression Function Arguments</title>
+<uncancelable>false</uncancelable>
+<url>sa_metric_expr_func_arg_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=83c6596c73f51300ee05aa114df6a776</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="81f303b613daf300c1fb33e2e144b088">81f303b613daf300c1fb33e2e144b088</group>
+<icon>view</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>87</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 14:28:01</sys_created_on>
+<sys_id>85f303b613daf300c1fb33e2e144b08e</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Metric Properties</title>
+<uncancelable>false</uncancelable>
+<url>system_properties_ui.do?sysparm_title=Operational Intelligence Metric Properties&amp;sysparm_category=Metric Properties</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>view</icon>
+<image/>
+<module display_value="Triggers">034a38a153991300d0f0e4e02ec58773</module>
+<open_in_form>false</open_in_form>
+<order>89</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>4e864e35139d7fc0bfc0f6b2e144b095</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Triggers</title>
+<uncancelable>false</uncancelable>
+<url>/$flow-designer.do?sysparm_nostack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name>flowdesigner</window_name>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="Time Series Metrics">34ef58575b03220066c1290291f91a28</module>
+<open_in_form>false</open_in_form>
+<order>90</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>46864e35139d7fc0bfc0f6b2e144b096</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Time Series Metrics</title>
+<uncancelable>false</uncancelable>
+<url>sys_metric_list.do?sysparm_userpref_module=34ef58575b03220066c1290291f91a28&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="Retention Policies">ce10ac575b03220066c1290291f91a8b</module>
+<open_in_form>false</open_in_form>
+<order>91</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>0a864e35139d7fc0bfc0f6b2e144b096</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Retention Policies</title>
+<uncancelable>false</uncancelable>
+<url>sys_metric_retention_policy_list.do?sysparm_userpref_module=ce10ac575b03220066c1290291f91a8b&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>icon-view color-green</icon>
+<image/>
+<module display_value="MetricBase Triggers">49630967c72232006568d4105a97635d</module>
+<open_in_form>false</open_in_form>
+<order>92</order>
+<pinned>true</pinned>
+<separator>true</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>02864e35139d7fc0bfc0f6b2e144b097</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>MetricBase Triggers</title>
+<uncancelable>false</uncancelable>
+<url/>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="Legacy Triggers">fc5a088bc72232006568d4105a97630c</module>
+<open_in_form>false</open_in_form>
+<order>93</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>c2864e35139d7fc0bfc0f6b2e144b097</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Legacy Triggers</title>
+<uncancelable>false</uncancelable>
+<url>sys_metric_trigger_list.do?sysparm_userpref_module=fc5a088bc72232006568d4105a97630c&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="Trigger Definitions">10259f255b101300789947cc11f91ae8</module>
+<open_in_form>false</open_in_form>
+<order>94</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>4e864e35139d7fc0bfc0f6b2e144b097</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Trigger Definitions</title>
+<uncancelable>false</uncancelable>
+<url>sys_metric_trigger_definition_list.do?sysparm_userpref_module=10259f255b101300789947cc11f91ae8&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="Trigger Logs">c9dbcc8bc72232006568d4105a976387</module>
+<open_in_form>false</open_in_form>
+<order>95</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>c2868e35139d7fc0bfc0f6b2e144b078</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Trigger Logs</title>
+<uncancelable>false</uncancelable>
+<url>sys_metric_trigger_log_list.do?sysparm_userpref_module=c9dbcc8bc72232006568d4105a976387&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="Trigger Condition Script">ea0a29d7b3101300f572eee1c6a8dcbf</module>
+<open_in_form>false</open_in_form>
+<order>96</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>4e868e35139d7fc0bfc0f6b2e144b078</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Trigger Condition Script</title>
+<uncancelable>false</uncancelable>
+<url>sys_metric_trigger_moderator_list.do?sysparm_userpref_module=ea0a29d7b3101300f572eee1c6a8dcbf&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>yellow</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value="4e864e35139d7fc0bfc0f6b2e144b094">4e864e35139d7fc0bfc0f6b2e144b094</group>
+<icon>list</icon>
+<image/>
+<module display_value="MetricBase Status">69ec9664c3013200e9e31f3292d3ae9a</module>
+<open_in_form>false</open_in_form>
+<order>97</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-09 14:22:56</sys_created_on>
+<sys_id>86868e35139d7fc0bfc0f6b2e144b07a</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>MetricBase Status</title>
+<uncancelable>false</uncancelable>
+<url>v_clotho_series_list.do?sysparm_userpref_module=69ec9664c3013200e9e31f3292d3ae9a&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value="Volumes">0e8884a037203000dcd48c00dfbe5de7</module>
+<open_in_form>false</open_in_form>
+<order>98</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-03 18:44:32</sys_created_on>
+<sys_id>efd8844013517f40c1fb33e2e144b083</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Storage Volumes</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_storage_volume_list.do?sysparm_nostack=true&amp;sysparm_userpref_module=0e8884a037203000dcd48c00dfbe5de7&amp;sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>99</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-03 18:44:49</sys_created_on>
+<sys_id>04f8484013517f40c1fb33e2e144b052</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Virtual Machine Instances</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_vm_instance_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>100</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-30 13:36:17</sys_created_on>
+<sys_id>ce3e04d8134b3380c1fb33e2e144b004</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud Networks (VPC)</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_network_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>101</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-05-21 14:32:16</sys_created_on>
+<sys_id>3fbbbf6513ad7f00bfc0f6b2e144b0eb</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud Load Balancers</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_cloud_load_balancer_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>102</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-06-14 13:03:27</sys_created_on>
+<sys_id>7c9d87dd134ef340c1fb33e2e144b01c</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>UI Page - metric_viewer</title>
+<uncancelable>false</uncancelable>
+<url>/sys_ui_page.do?sys_id=1eef36cbc3a03200e9e31f3292d3ae68&amp;sysparm_record_target=sys_ui_page&amp;sysparm_record_row=2&amp;sysparm_record_rows=3&amp;sysparm_record_list=nameCONTAINSmetric%5EORDERBYname</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>103</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-06-24 18:50:08</sys_created_on>
+<sys_id>a4dcbb2c131a7380c1fb33e2e144b00f</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Storage Clusters</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_storage_cluster_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>104</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-01 15:25:06</sys_created_on>
+<sys_id>d101df72135ef300c1fb33e2e144b05d</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud DataBases</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_cloud_database_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>105</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-02 14:08:58</sys_created_on>
+<sys_id>b729045f13567700c1fb33e2e144b0f4</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud Events</title>
+<uncancelable>false</uncancelable>
+<url>/sn_cmp_cloud_event_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value="Discovery Pattern Log">609fa0c69f5012002887734ec32e709f</module>
+<open_in_form>false</open_in_form>
+<order>106</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-02 14:44:37</sys_created_on>
+<sys_id>865158d713d67700c1fb33e2e144b0bf</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Discovery Pattern Log</title>
+<uncancelable>false</uncancelable>
+<url>sa_discovery_log_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=609fa0c69f5012002887734ec32e709f&amp;sysparm_query=pattern_nameISNOTEMPTY^managed_ipISNOTEMPTY^EQ</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value="Cloud API Trail">178b46a60b33220033bc05ae37673af9</module>
+<open_in_form>false</open_in_form>
+<order>107</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-02 20:48:35</sys_created_on>
+<sys_id>a1a4a99f1312b700c1fb33e2e144b077</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud API - Cloud API Trail</title>
+<uncancelable>false</uncancelable>
+<url>sn_capi_api_trail_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=178b46a60b33220033bc05ae37673af9</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>108</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-08 18:41:03</sys_created_on>
+<sys_id>c001c81913223340c1fb33e2e144b0a4</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud Orchestration Trails</title>
+<uncancelable>false</uncancelable>
+<url>/sn_cmp_cloud_trail_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>green</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>list</icon>
+<image/>
+<module display_value="Global Images">f37c5f97c30122007bf1bea192d3ae69</module>
+<open_in_form>false</open_in_form>
+<order>109</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-17 14:05:00</sys_created_on>
+<sys_id>4028d98c137af300c1fb33e2e144b0c0</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Configuration - Global Images</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_docker_image_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=f37c5f97c30122007bf1bea192d3ae69</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>list</icon>
+<image/>
+<module display_value="Local Images">6cac9f97c30122007bf1bea192d3aefe</module>
+<open_in_form>false</open_in_form>
+<order>110</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-17 14:05:25</sys_created_on>
+<sys_id>8a3811cc137af300c1fb33e2e144b0a3</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Configuration - Local Images</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_docker_local_image_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=6cac9f97c30122007bf1bea192d3aefe</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>list</icon>
+<image/>
+<module display_value="Image Tags">3b5d53d7c30122007bf1bea192d3ae0e</module>
+<open_in_form>false</open_in_form>
+<order>111</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>Todd.Goodhew</sys_created_by>
+<sys_created_on>2019-07-17 14:05:52</sys_created_on>
+<sys_id>fc58dd8c137af300c1fb33e2e144b006</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Configuration - Image Tags</title>
+<uncancelable>false</uncancelable>
+<url>cmdb_ci_docker_image_tag_list.do?sysparm_clear_stack=true&amp;sysparm_userpref_module=3b5d53d7c30122007bf1bea192d3ae0e</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>112</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-08-01 13:49:37</sys_created_on>
+<sys_id>857422f413073f80c1fb33e2e144b044</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud Orchestrations</title>
+<uncancelable>false</uncancelable>
+<url>/sn_cmp_order_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>113</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-08-01 14:15:56</sys_created_on>
+<sys_id>2a7a26b013c73f80c1fb33e2e144b0c5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Cloud Orchestration Steps</title>
+<uncancelable>false</uncancelable>
+<url>/sn_cmp_order_step_status_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>114</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-20 19:03:58</sys_created_on>
+<sys_id>05ebc9c9130448102523d5328144b0b9</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Kubernetes Pods</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_kubernetes_pod_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>115</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-20 19:04:10</sys_created_on>
+<sys_id>44fbc9c9130448102523d5328144b0be</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Docker Containers</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_docker_container_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>116</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-24 17:57:36</sys_created_on>
+<sys_id>0c13edde13cc4410c1fb33e2e144b060</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Kubernetes Services</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_kubernetes_service_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>117</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-24 17:58:12</sys_created_on>
+<sys_id>6033611213008410c1fb33e2e144b074</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Kubernetes Deployments</title>
+<uncancelable>false</uncancelable>
+<url>/x_asc_application_kubernetes_deployment_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>118</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-24 18:29:37</sys_created_on>
+<sys_id>346aa55e13008410c1fb33e2e144b02a</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 12:06:27</sys_updated_on>
+<title>Kubernetes Components</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_kubernetes_component_list.do?sysparm_clear_stack=true</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>119</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-25 15:12:56</sys_created_on>
+<sys_id>65f6c66a13c4c410c1fb33e2e144b042</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 15:12:56</sys_updated_on>
+<title>Kubernetes Routes</title>
+<uncancelable>false</uncancelable>
+<url>/x_asc_application_kubernetes_routes_list.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>blue</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>list</icon>
+<image/>
+<module display_value="Discovery Schedules">9dbf10f40a0a070300212ec4c69443ad</module>
+<open_in_form>false</open_in_form>
+<order>120</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-25 16:33:10</sys_created_on>
+<sys_id>85591eea1348c410c1fb33e2e144b0d3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-25 16:33:10</sys_updated_on>
+<title>Discovery - Discovery Schedules</title>
+<uncancelable>false</uncancelable>
+<url>discovery_schedule_list.do?sysparm_userpref_module=9dbf10f40a0a070300212ec4c69443ad</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>121</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-09-30 14:37:47</sys_created_on>
+<sys_id>ebde67c4135844102523d5328144b034</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-09-30 14:37:47</sys_updated_on>
+<title>Kubernetes Pods</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_kubernetes_pod_list.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>white</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>database</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>122</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-10-10 20:11:24</sys_created_on>
+<sys_id>5c2b14a713d84810c1fb33e2e144b061</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-10-10 20:11:24</sys_updated_on>
+<title>Related CI Types</title>
+<uncancelable>false</uncancelable>
+<url>/sa_ci_to_pattern_list.do?sysparm_query=&amp;sysparm_first_row=1&amp;sysparm_view=</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>form</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>123</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-12-13 00:25:58</sys_created_on>
+<sys_id>28bef5f3db8ec09027c7f2731f96197e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-12-13 00:25:58</sys_updated_on>
+<title>Repository Configurations - ASC</title>
+<uncancelable>false</uncancelable>
+<url>/sys_repo_config.do?sys_id=2c855417db6863407ce7bb01ef961949&amp;sysparm_view=</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>list</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>124</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-12-20 19:43:37</sys_created_on>
+<sys_id>d1adb95e133500502523d5328144b014</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-12-20 19:43:37</sys_updated_on>
+<title>Hardware Types</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_compute_template_list.do</url>
+<user display_value="Todd Goodhew">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+<sys_ui_bookmark action="INSERT_OR_UPDATE">
+<auto_add>false</auto_add>
+<color>purple</color>
+<flyout>false</flyout>
+<flyout_sizing>auto</flyout_sizing>
+<flyout_width/>
+<group display_value=""/>
+<icon>list</icon>
+<image/>
+<module display_value=""/>
+<open_in_form>false</open_in_form>
+<order>125</order>
+<pinned>true</pinned>
+<separator>false</separator>
+<sys_created_by>todd.goodhew</sys_created_by>
+<sys_created_on>2019-12-20 19:43:56</sys_created_on>
+<sys_id>4ebd7d5e133500502523d5328144b005</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>todd.goodhew</sys_updated_by>
+<sys_updated_on>2019-12-20 19:43:56</sys_updated_on>
+<title>Images</title>
+<uncancelable>false</uncancelable>
+<url>/cmdb_ci_os_template_list.do</url>
+<user display_value="Todd Goodhew - ADMIN">28bef5f3db8ec09027c7f2731f96197e</user>
+<window_name/>
+</sys_ui_bookmark>
+</unload>
